@@ -1,0 +1,89 @@
+AllyGo CLI Facebook Post Image Design Guidelines
+
+Main Concept,
+
+The image will reflect the core features and purpose of AllyGo CLI - an easy, attractive, and well-organized platform for learning command line interfaces.
+
+Design Elements,
+
+1. Primary Visual Components
+
+- Central Image: A laptop/computer screen displaying a terminal window
+- Command Line Interface: Colorful commands and outputs shown on the screen
+- Logo: AllyGo CLI logo (on white or light-colored background)
+- Icons: Various terminal tool icons (PowerShell, CMD, Git Bash, Node.js)
+
+
+2. Color Scheme
+
+- Primary Colors: Deep blue or purple (`#3A0CA3` or `#4361EE`)
+- Secondary Colors: Light blue or green (`#4CC9F0` or `#4895EF`)
+- Accent Colors: Bright yellow or orange (`#F72585` or `#7209B7`)
+- Text Colors: White or light gray
+- Background: Deep gradient (Example: `#3A0CA3` to `#4361EE`)
+
+
+3. Layout
+
+- Format: 1200 x 630 pixels (ideal for Facebook sharing)
+- Composition:
+
+- Left side: Terminal screen display
+- Right side: AllyGo CLI logo and tagline
+- Bottom: Brief feature icons with descriptions
+
+
+
+
+
+4. Typography
+
+- Headline: "AllyGo CLI" - Bold, modern font (Montserrat or Poppins)
+- Tagline: "Command Line Mastery Made Simple" - Medium weight
+- Feature Text: Subtitle as "Learn • Practice • Master"
+
+
+5. Graphical Elements
+
+- Icons: Simple, minimalistic icons representing various command categories
+- Code Snippets: Some simple commands with colorful syntax highlighting
+- Connecting Lines: Light lines or dots showing connections between different elements
+
+
+6. Visual Effects
+
+- Gradients: Subtle gradient in the background
+- Shadows: Light shadows under text and boxes
+- Glow Effect: Subtle glow around command line text
+
+
+Technical Specifications
+
+- Resolution: 1200 x 630 pixels (optimized for Facebook sharing)
+- Format: PNG or JPG (high quality)
+- File Size: Under 1MB (for fast loading)
+
+
+Key Messages to Convey Visually
+
+1. Simplicity: Learning command line is easy and attractive
+2. Integration: Various terminal tools in one platform
+3. Organization: Well-structured and categorized commands
+4. Educational: Suitable for users of all levels
+
+
+Design Tips
+
+1. Keep it Simple: Avoid excessive elements
+2. Maintain Contrast: Ensure text is easily readable
+3. Consistent Branding: Use core branding elements of AllyGo CLI
+4. Professional Look: Tech-focused but appealing design
+
+
+An CLI Project for Students and Administritore,
+The image will reflect the core features and purpose of CLI (PowerShell,Git Bush,CMD, Node.js) - an easy, attractive, and well-organized platform for learning command line interfaces.
+Brand name: AllyGo
+Project name : AllyGo CLI
+Highlight: "Command Line Mastery Made Simple"
+
+Image for Facebook Post

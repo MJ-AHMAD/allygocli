@@ -1,0 +1,130 @@
+30-Second Video Content Guide for AllyGo CLI
+
+Video Structure & Technical Specifications
+
+- Duration: 30 seconds
+- Resolution: 1080p (1920x1080) or 4K (3840x2160)
+- Aspect Ratio: 16:9 (landscape for Facebook feed)
+- Format: MP4 with H.264 encoding
+- Frame Rate: 30fps
+
+
+Scene Breakdown
+
+0-3 seconds: Attention-Grabbing Intro
+
+- Visual: Dynamic logo animation of AllyGo CLI
+- Text Overlay: "Mastering Command Line Made Simple"
+- Audio: Brief tech-inspired sound effect
+- Effect: Quick zoom or reveal animation
+
+
+3-7 seconds: Problem Statement
+
+- Visual: Split screen showing confused user facing multiple terminal windows
+- Text Overlay: "Confused by different command line interfaces?"
+- Audio: Subtle tension music
+- Effect: Desaturated colors to emphasize frustration
+
+
+7-12 seconds: Solution Introduction
+
+- Visual: Screen transforms to show AllyGo CLI interface
+- Text Overlay: "Introducing AllyGo CLI"
+- Audio: Upbeat transition sound
+- Effect: Color transition from desaturated to vibrant
+
+
+12-18 seconds: Key Features Showcase
+
+- Visual: Quick cuts between different features of the platform
+- Text Overlays (appearing sequentially):
+
+1. "All terminals in one place"
+2. "Categorized commands"
+3. "Interactive learning"
+
+
+
+- Audio: Continued upbeat background music
+- Effect: Clean sliding transitions between features
+
+
+18-23 seconds: User Benefits
+
+- Visual: Split screen showing three different user types (beginner, teacher, professional)
+- Text Overlay: "Perfect for everyone - from beginners to experts"
+- Audio: Inspiring music crescendo
+- Effect: Smooth transitions between user types
+
+
+23-28 seconds: Product Demonstration
+
+- Visual: Brief screen recording showing actual usage of AllyGo CLI
+- Text Overlay: "Learn • Practice • Master"
+- Audio: Typing sounds mixed with background music
+- Effect: Highlight/zoom on key interface elements
+
+
+28-30 seconds: Call to Action
+
+- Visual: AllyGo CLI logo with website URL
+- Text Overlay: "Try AllyGo CLI today!"
+- Audio: Concluding sound effect
+- Effect: Subtle pulsing animation on CTA button
+
+
+Visual Elements to Include
+
+1. Terminal Interfaces: Show PowerShell, CMD, Git Bash, and Node.js terminals
+2. Code Snippets: Display colorful syntax-highlighted commands
+3. User Interface: Showcase the clean, organized AllyGo CLI interface
+4. Icons: Use simple, recognizable icons for different command categories
+5. Progress Indicators: Brief glimpse of learning progress features
+
+
+Text Guidelines
+
+- Font: Clean, modern sans-serif (Montserrat or Poppins)
+- Colors: White or light text on darker backgrounds for readability
+- Animation: Text should animate in with simple, professional effects (fade, slide)
+- Duration: Each text overlay should remain visible for at least 2 seconds
+
+
+Audio Recommendations
+
+- Background Music: Tech-inspired, upbeat but not distracting
+- Sound Effects: Subtle keyboard typing, notification sounds, success tones
+- Volume Levels: Music at 20% when narration is present, 40% otherwise
+
+
+Narration Script (Optional)
+
+If including voiceover:
+
+"Struggling with command line interfaces? AllyGo CLI brings PowerShell, Command Prompt, Git Bash, and Node.js together in one intuitive platform. With categorized commands and interactive tutorials, mastering the command line has never been easier. Whether you're a beginner, teacher, or professional developer, AllyGo CLI is designed for you. Try it today and transform the way you work with the command line."
+
+Transitions & Effects
+
+- Transitions: Use clean, professional transitions (dissolve, slide, zoom)
+- Motion Graphics: Incorporate subtle animations for key elements
+- Highlighting: Use spotlight or highlight effects to draw attention to important features
+- Pace: Start moderate, increase slightly in the middle, then slow down for the call to action
+
+
+Branding Elements
+
+- Logo Placement: Top right corner throughout most of the video
+- Color Scheme: Maintain the AllyGo CLI color palette (deep blues, purples, accent colors)
+- Consistency: Use consistent visual language throughout
+
+
+Production Tips
+
+1. Keep it Simple: Focus on clarity over complexity
+2. Visual Hierarchy: Most important information should be most prominent
+3. Pacing: Maintain engaging pace but don't rush through important information
+4. Accessibility: Ensure text is readable and contrast is sufficient
+5. Mobile Optimization: Consider how video will appear on mobile devices
+
+

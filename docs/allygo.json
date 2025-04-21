@@ -1,0 +1,32 @@
+{
+    "Websites": [
+        {
+            "Name": "AllyGo",
+            "Titel": "Empowering progress through partnership",
+            "URL": "https://a",
+            "Status": "Active"
+        }
+    ],
+    "Scripts": [
+        {
+            "Name": "BackupManager",
+            "Language": "PowerShell",
+            "Path": "C:/Scripts/BackupManager.ps1"
+        }
+    ],
+    "Orders": [
+        {
+            "OrderID": "1001",
+            "Client": "XYZ Corp",
+            "Status": "Completed",
+            "DueDate": "2025-05-10"
+        }
+    ],
+    "Teams": [
+        {
+            "TeamName": "Development",
+            "Members": ["Alice", "Bob"],
+            "Status": "Active"
+        }
+    ]
+}
